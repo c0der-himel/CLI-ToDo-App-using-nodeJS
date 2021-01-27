@@ -30,10 +30,10 @@ Please follow the below instructions to run this project in your machine:
 Command for this Todo App:
 
 ```
-add --text="sample"             to add a todo
 list                            to see total list of todos
 next                            to see the next todo
 done                            to complete the todo
+add    --text="sample"          to add a todo
+find   --term="sample"          to find a todo
 update --id=1 --text="sample"   to update a todo
-find --term="sample"            to find a todo
 ```
