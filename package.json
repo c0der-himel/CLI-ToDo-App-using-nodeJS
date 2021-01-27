@@ -1,0 +1,23 @@
+{
+  "name": "cli-todo-app-using-nodejs",
+  "version": "1.0.0",
+  "description": "a command line todo app using nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0der-himel/CLI-ToDo-App-using-nodeJS.git"
+  },
+  "author": "Himel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0der-himel/CLI-ToDo-App-using-nodeJS/issues"
+  },
+  "homepage": "https://github.com/c0der-himel/CLI-ToDo-App-using-nodeJS#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
